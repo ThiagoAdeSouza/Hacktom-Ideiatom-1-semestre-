@@ -1,0 +1,33 @@
+Primeira oratória: vender o Peixe
+
+ Início 
+
+ Bom dia Galera tudo bem com vocês? Hoje nós viemos apresentar o nosso app chamado Mitra.
+ Mitra veio da Índia que o significado é Amigo e com base nisso desenvolvemos o nosso app.
+ Hoje no cotidiano, nós vimos uma necessidade das pessoas interagirem entre si, principalmente 
+ os idosos e deficientes, nós vimos que as famílias no almoço de domingo ou no dia a dia mesmo
+ elas estão tão conectadas na internet que hoje está faltando aquele dialogo entre pessoas, sabe?
+ aquele no olho no olho?, isso é sentido princpalmente pelos idosos e quem tem necessidades especiais.
+ Com isso, o nosso app veio promover uma empatia social entre as pessoas de ambas classes tanto social
+ como pessoas com necessidades especiais.
+ Hoje no mundo está muito carente por falta de inclusão social, pensando nisso nós desenvolvemos o MITRA
+ o Mitra é um app que tem a principal funcionalidade de inserir essas pessoas para ter essa inclusão e a
+ empatia entre as pessoas através da corrida compartilhada. A corrida compartilhada se baseia na pessoa
+ pedindo a corrida normalmente, mas no meio do trajeto se um idoso ou pessoa com necessidade especial
+ solicitar uma corrida que tenha o trajeto semelhante, a pessoa que está na corrida tem a opção de 
+ compartilhar a corrida com este idoso ou pessoa com necessidade especial. Se a pessoa aceitar a corrida
+ compartilhada, o Motorista segue para onde o idoso ou pessoa com necessidade especial esteja e ajuda o
+ idoso ou pessoa com necessidade especial entrar no carro. 
+
+1º Tópico: Empatia social entre pessoas
+
+Resposta: a Empatia social é aquela de conversar com as pessoas, conhecer pessoas novas verdadeiramente
+
+2º Tópico: Inclusão social
+ 
+Resposta: E na Inclusão social não é apenas com o idoso ou pessoa com necessidade especial , mas também
+com pessoas que tem a fobia social que tem medo de ficar sozinha em público mas com uma outra pessoa na
+corrida compartilhada ela irá se sentir mais segura.
+
+
+Segunda Oratória: Explicativo
